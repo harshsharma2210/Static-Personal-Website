@@ -1,3 +1,8 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 #main-header img {
   width: 100%;
   height: 100%;
@@ -93,7 +98,9 @@
   margin: 50px 0 0 0;
   background-color: transparent;
 }
-
+#main-header > div > div.col-lg-8.col-md-7 > div > div.p-5 {
+  padding: 1rem !important;
+}
 .hovereffect a.info:hover {
   box-shadow: 0 0 5px #fff;
 }
@@ -121,6 +128,9 @@
 .hovereffect hr:nth-child(3) {
   -webkit-transform: translate3d(-50%, -50%, 0) rotate(90deg) scale3d(0, 0, 1);
   transform: translate3d(-50%, -50%, 0) rotate(90deg) scale3d(0, 0, 1);
+}
+#main-footer {
+  background-color: #343a40 !important;
 }
 
 .hovereffect h2,
@@ -992,4 +1002,15 @@
   bottom: 0;
   background-color: black;
   z-index: 999999;
+}
+
+#c {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #171719;
+}
+.blinkAnim {
+  animation: blinkMe 1.2s linear infinite;
 }
