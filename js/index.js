@@ -207,11 +207,11 @@ const BLINK_ANIM_DURATION = 500;
 //text array to show & loop through
 const textArr = [
   "Hi! I am Harsh Sharma. 👋",
-  "I am a Third Year Computer Science Engineering Student. 🎓",
-  "I am a Full Stack Web Developer. 💻",
-  "I am a Freelancer. 🏢",
+  "Third Year Computer Science Engineering Student. 🎓",
+  "Full Stack Web Developer. 💻",
+  "Freelancer. 🏢",
   "I like Competitive Coding. ⌨️ ",
-  "Fun fact: I like investing in Stocks! 📈",
+  "Fun fact: I like investing in Stocks and Crypto! 📈",
 ];
 
 //index of the current text of the textArr that is being animated
