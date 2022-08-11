@@ -5,4 +5,3 @@ Programming Languages Used-
 3.JavaScript
 4. Bootsrap
 5.jQuery
-# Static-Personal-Website
