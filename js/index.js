@@ -207,9 +207,9 @@ const BLINK_ANIM_DURATION = 500;
 //text array to show & loop through
 const textArr = [
   "Hi! I am Harsh Sharma. 👋",
-  "Third Year Computer Science Engineering Student. 🎓",
+  "Software Engineer at Anarock. 🏢",
+  "Computer Science Engineering Graduate. 🎓",
   "Full Stack Web Developer. 💻",
-  "Freelancer. 🏢",
   "I like Competitive Coding. ⌨️ ",
   "Fun fact: I like investing in Stocks and Crypto! 📈",
 ];
